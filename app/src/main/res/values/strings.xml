@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XML and Kotlin</string>
+    <string name="name">Nome:</string>
+    <string name="yo">Idade:</string>
+    <string name="complete">Completar</string>
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
+    <string name="gender">Sexo:</string>
+    <string name="show_data">Meu nome é ___ , tenho __ anos e sou do sexo ___ .</string>
+</resources>
